@@ -14,15 +14,15 @@ charset-normalizer==3.3.2
     # via requests
 click==8.1.7
     # via localstack-core (pyproject.toml)
-cryptography==42.0.2
+cryptography==42.0.4
     # via localstack-core (pyproject.toml)
 dill==0.3.6
     # via localstack-core (pyproject.toml)
 dnslib==0.9.24
     # via localstack-core (pyproject.toml)
-dnspython==2.5.0
+dnspython==2.6.1
     # via localstack-core (pyproject.toml)
-idna==3.6
+idna==3.7
     # via requests
 markdown-it-py==3.0.0
     # via rich
